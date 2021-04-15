@@ -7,7 +7,7 @@ package LinkedList_poly_add;
  * 
  */
 
-public class LinkedList_Poly {
+class LinkedList_Poly {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
